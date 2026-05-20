@@ -1,3 +1,0 @@
-Java is a Pass by Value programming language.
-
-This means that when you pass arguments to methods, Java passes a copy of the value. Changes made to the parameters inside the method do not affect the original values outside the method.
